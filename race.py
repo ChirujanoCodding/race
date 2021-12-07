@@ -1,6 +1,3 @@
-def pist_generator(size:int = 5, max:int= 1, slot:str = '*'):
-    return [[slot for spaces in range(size-1)]+['🚗'] for lists in range(max)]
-
 from random import randint
 from time import sleep
 from os import system
