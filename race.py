@@ -13,6 +13,7 @@ class Table:
         slot: item in any sublist
         car_list: list of cars
         sep: is the separator between sub-lists when is printed
+        nicks: list of nicks ( names of cars )
         '''
         self.size = size
         self.max = max
