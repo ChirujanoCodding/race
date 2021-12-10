@@ -1,5 +1,5 @@
 ## 💎 Mini-Juegos
-Actualmente la carpeta classes cuenta con 2 mini-juegos
+Actualmente la carpeta classes cuenta con 3 mini-juegos
 
 # 📋 Pre-requisitos
 ```
